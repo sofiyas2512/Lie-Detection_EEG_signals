@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Model files
+models/*.pkl
+models/*.h5
+models/*.keras
+
+# Dataset
+data/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml

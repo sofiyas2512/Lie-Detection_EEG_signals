@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+joblib
+scikit-learn
+tensorflow    
+flask         # optional (for API)
